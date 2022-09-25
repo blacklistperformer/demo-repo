@@ -18,3 +18,5 @@ we have restarted the terminal and editor.
 
 now we check this same shit on cmd
 we have closed the git bash command shell and not moving on to the next sptep
+
+ok this is it
