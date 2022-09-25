@@ -18,3 +18,5 @@ we have restarted the terminal and editor.
 
 now we check this same shit on cmd
 we have closed the git bash command shell and not moving on to the next sptep
+
+we wrote a code of hello world and say hi function ion c++ this is to check stuf at time stamp 40 minutes
