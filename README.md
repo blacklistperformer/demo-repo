@@ -9,3 +9,5 @@ first change goes over here
 ok this is the change and here we ahve setup the github and everyhting now we gone learn how to use it nicely bruh
 
 this is the last comment before starting the video agian
+
+this is a new day and 1st try to see ig  i close the terminal from orignal conditions does it worlks or not
