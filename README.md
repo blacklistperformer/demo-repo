@@ -15,3 +15,6 @@ this is a new day and 1st try to see ig i close the terminal from orignal condit
 now lets check it on closing the terminal and editor and starting from the scratch again.
 
 we have restarted the terminal and editor.
+
+now we check this same shit on cmd
+we have closed the git bash command shell and not moving on to the next sptep
